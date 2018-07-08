@@ -8,3 +8,6 @@ spring:
     show-sql: true
 env:
   test5
+user:
+  name:lili
+  age:12
